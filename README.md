@@ -10,11 +10,11 @@ I'm a **Computer Science** student, passionate about **Software devlopment and H
 🏋️‍♂️ Fitness enthusiast | Always striving for self-improvement  
 
 ## 🔧 Skills & Interests  
-- 🔹 **Software Engineering & System Design**  
-- 🔹 **Cybersecurity & Network Security**  
-- 🔹 **Hardware & Embedded Systems**  
-- 🔹 **Open Source Contributions**  
-- 🔹 **Goal:** Becoming a highly skilled software engineer
+ 🔹 **Software Engineering & System Design**  
+ 🔹 **Cybersecurity & Network Security**  
+ 🔹 **Hardware & Embedded Systems**  
+ 🔹 **Open Source Contributions**  
+ 🔹 **Goal:** Becoming a highly skilled software engineer
 
 ## 📫 Connect with Me  
 - [GitHub](https://github.com/mmuthupandi)  
